@@ -1,0 +1,23 @@
+body{
+    font-family: "Comic Sans MS"; 
+	}
+
+h1{
+	font-family: "Comic Sans MS"; 
+}
+
+
+.img_deg
+{
+      float: right;
+      width: 10%
+}
+
+.img_de
+{
+      float: left;
+      width: 10%
+}
+
+
+	
